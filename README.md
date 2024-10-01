@@ -1,3 +1,7 @@
-XeF2i
+I'm XeF2 from the University of Science and Technology of China.
 
-[跳转](https://cn.bing.com)
+Current projects under development:
+
+- [USTCchess](https://github.com/USTC-XeF2/USTCchess)
+
+Welcome all students and interested programmers to join my project!
